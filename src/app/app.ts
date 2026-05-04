@@ -1,12 +1,10 @@
-import { Component, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Component } from '@angular/core';
+import { GeoSelectorComponent } from './components/geo-selector/geo-selector';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
-  templateUrl: './app.html',
-  styleUrl: './app.css'
+  template: `<app-geo-selector />`,
+  standalone: true,
+  imports: [GeoSelectorComponent]
 })
-export class App {
-  protected readonly title = signal('front-api-microservicios');
-}
+export class AppComponent {}
