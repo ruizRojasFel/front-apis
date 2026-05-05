@@ -57,3 +57,22 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+---
+
+## Developer
+
+### **Felipe Andrés Ruiz Rojas**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felandres-blue?logo=linkedin)](https://www.linkedin.com/in/felandres)
+[![Website](https://img.shields.io/badge/Website-%40felruiz--dev-lightblue)](https://felruiz-dev.vercel.app/)
+
+---
+
+## License
+
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/ruizRojasFel/front-api-microservicios?tab=MIT-1-ov-file)
+
+---
+
+Copyright © 2026 Felipe Andrés Ruiz Rojas.
